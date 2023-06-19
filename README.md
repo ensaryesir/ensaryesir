@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **databases and backend**
 
-- 💻 I’m currently learning **Asp.Net Core Mvc and Transact-SQL**
+- 💻 I’m currently learning **Asp.Net Core and Transact-SQL**
 
 - 💬 You can reach for your questions **yesirensar@gmail.com**
 
