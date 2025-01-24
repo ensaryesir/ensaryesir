@@ -31,19 +31,20 @@
 Welcome to my GitHub page! <br>
 I'm working on backend development, particularly with **Node.js/MongoDB** technologies. <br>
 
-📫 How to reach me **yesirensar@gmail.com**  
+📫 How to reach me:  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/ensar-yesir) **LinkedIn Profile**
+- **Email**: **yesirensar@gmail.com**  
+- **LinkedIn**: [linkedin.com/in/ensar-yesir](https://www.linkedin.com/in/ensar-yesir)
 
 
-## A coffee >>> :coffee:  
+
+## coffee and coding  >>> :coffee: 👨‍💻
 
 <p><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"></p>
 
-<p align="center"> 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ensaryesir&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fensaryesir&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-</p>
 
 
 <p align="center">
